@@ -1,2 +1,2 @@
-# PRO-C23-SA-boilerplate
-boilerplate code for C23
+# Class23-Bewin
+Cannon and cannonball
